@@ -1,10 +1,10 @@
 Python 3.10.1 (v3.10.1:2cd268a3a9, Dec  6 2021, 14:28:59) [Clang 13.0.0 (clang-1300.0.29.3)] on darwin
 Type "help", "copyright", "credits" or "license()" for more information.
 
-=================== RESTART: /Users/mishankkumar/Desktop/p.py ==================
+
 QUESTION 1
 ENTER ANY STRING: MISHANK
-{'M': 1, 'I': 1, 'S': 1, 'H': 1, 'A': 1, 'N': 1, 'K': 1}
+{'V': 1, 'A': 1, 'I': 1, 'B': 1, 'H': 1, 'A': 1, 'V': 1}
 
 
 QUESTION 2
@@ -36,7 +36,7 @@ ABCDEFGHIJK
 
 QUESTION 6
 Enter SID: 21103107
-Enter Name: MISHANK
+Enter Name: VAIBHAV
 Do you want to enter another student entry(Y or N):Y
 Enter SID: 21103108
 Enter Name: PARTH
@@ -47,9 +47,9 @@ Do you want to enter another student entry(Y or N):Y
 Enter SID: 21103110
 Enter Name: DHRUV
 Do you want to enter another student entry(Y or N):N
-<a> {21103107: 'MISHANK', 21103108: 'PARTH', 21103109: 'SHREY', 21103110: 'DHRUV'}
-<b> {21103110: 'DHRUV', 21103107: 'MISHANK', 21103108: 'PARTH', 21103109: 'SHREY'}
-<c> {21103107: 'MISHANK', 21103108: 'PARTH', 21103109: 'SHREY', 21103110: 'DHRUV'}
+<a> {21103032: 'VAIBHAV', 21103108: 'PARTH', 21103109: 'SHREY', 21103110: 'DHRUV'}
+<b> {21103110: 'DHRUV', 21103032: 'VAIBHAV', 21103108: 'PARTH', 21103109: 'SHREY'}
+<c> {21103032: 'VAIBHAV', 21103108: 'PARTH', 21103109: 'SHREY', 21103110: 'DHRUV'}
 Search Name with SID: 21103108
 <d> PARTH
 
